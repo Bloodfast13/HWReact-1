@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/HWReact-1/static/css/main.de9d8212.chunk.css",
-    "main.js": "/HWReact-1/static/js/main.496cd650.chunk.js",
-    "main.js.map": "/HWReact-1/static/js/main.496cd650.chunk.js.map",
-    "runtime-main.js": "/HWReact-1/static/js/runtime-main.1279e1f4.js",
-    "runtime-main.js.map": "/HWReact-1/static/js/runtime-main.1279e1f4.js.map",
-    "static/js/2.12d055fd.chunk.js": "/HWReact-1/static/js/2.12d055fd.chunk.js",
-    "static/js/2.12d055fd.chunk.js.map": "/HWReact-1/static/js/2.12d055fd.chunk.js.map",
-    "index.html": "/HWReact-1/index.html",
-    "precache-manifest.6c363b3b4cd38f865f7553d17b74b97f.js": "/HWReact-1/precache-manifest.6c363b3b4cd38f865f7553d17b74b97f.js",
-    "service-worker.js": "/HWReact-1/service-worker.js",
-    "static/css/main.de9d8212.chunk.css.map": "/HWReact-1/static/css/main.de9d8212.chunk.css.map",
-    "static/js/2.12d055fd.chunk.js.LICENSE.txt": "/HWReact-1/static/js/2.12d055fd.chunk.js.LICENSE.txt",
-    "static/media/252.png": "/HWReact-1/static/media/252.e45d9d1f.png",
-    "static/media/github-logo.svg": "/HWReact-1/static/media/github-logo.76d344f0.svg"
+    "main.css": "/HWreactAPP1/static/css/main.de9d8212.chunk.css",
+    "main.js": "/HWreactAPP1/static/js/main.bd15e431.chunk.js",
+    "main.js.map": "/HWreactAPP1/static/js/main.bd15e431.chunk.js.map",
+    "runtime-main.js": "/HWreactAPP1/static/js/runtime-main.1bf8d059.js",
+    "runtime-main.js.map": "/HWreactAPP1/static/js/runtime-main.1bf8d059.js.map",
+    "static/js/2.12d055fd.chunk.js": "/HWreactAPP1/static/js/2.12d055fd.chunk.js",
+    "static/js/2.12d055fd.chunk.js.map": "/HWreactAPP1/static/js/2.12d055fd.chunk.js.map",
+    "index.html": "/HWreactAPP1/index.html",
+    "precache-manifest.b1c236195e17829f4776a0fc831749e2.js": "/HWreactAPP1/precache-manifest.b1c236195e17829f4776a0fc831749e2.js",
+    "service-worker.js": "/HWreactAPP1/service-worker.js",
+    "static/css/main.de9d8212.chunk.css.map": "/HWreactAPP1/static/css/main.de9d8212.chunk.css.map",
+    "static/js/2.12d055fd.chunk.js.LICENSE.txt": "/HWreactAPP1/static/js/2.12d055fd.chunk.js.LICENSE.txt",
+    "static/media/252.png": "/HWreactAPP1/static/media/252.e45d9d1f.png",
+    "static/media/github-logo.svg": "/HWreactAPP1/static/media/github-logo.76d344f0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1279e1f4.js",
+    "static/js/runtime-main.1bf8d059.js",
     "static/js/2.12d055fd.chunk.js",
     "static/css/main.de9d8212.chunk.css",
-    "static/js/main.496cd650.chunk.js"
+    "static/js/main.bd15e431.chunk.js"
   ]
 }
